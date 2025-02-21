@@ -5,7 +5,6 @@ requests
 lxml
 re
 asyncio
-telegram
 Bot
 InlineKeyboardButton
 InlineKeyboardMarkup
