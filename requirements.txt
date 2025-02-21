@@ -1,0 +1,11 @@
+requirements.txt
+python-telegram-bot
+beautifulsoup4
+requests
+lxml
+re
+asyncio
+telegram
+Bot
+InlineKeyboardButton
+InlineKeyboardMarkup
